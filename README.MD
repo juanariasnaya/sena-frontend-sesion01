@@ -1,11 +1,11 @@
-# Nombre del proyecto
+# sena-frontend-sesion01
 
-Breve descripción de qué hace el proyecto.
+es mi pagina para demostrar que se usar git y github
 
 ## Datos del aprendiz
-- Nombre: Tu nombre completo
-- Ficha: XXXXXXX
-- Instructor: Nombre del instructor
+- Nombre: Juan Sebastian Arias Anaya
+- Ficha: 3267541
+- Instructor: Alexander Patiño
 
 ## Tecnologías usadas
 - HTML5
