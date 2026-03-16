@@ -6,6 +6,7 @@ es mi pagina para demostrar que se usar git y github
 - Nombre: Juan Sebastian Arias Anaya
 - Ficha: 3267541
 - Instructor: Alexander Patiño
+-hola
 
 ## Tecnologías usadas
 - HTML5
