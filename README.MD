@@ -1,3 +1,6 @@
+
+## 16/03/2026
+
 # sena-frontend-sesion01
 
 es mi pagina para demostrar que se usar git y github
@@ -6,7 +9,9 @@ es mi pagina para demostrar que se usar git y github
 - Nombre: Juan Sebastian Arias Anaya
 - Ficha: 3267541
 - Instructor: Alexander Patiño
--hola
+- Competencia: CONSTRUCCIÓN DEL SOFTWARE
+- Resultado de aprendizaje: 03. CREAR COMPONENTES FRONT-END DEL SOFTWARE DE ACUERDO CON EL DISEÑO
+
 
 ## Tecnologías usadas
 - HTML5
